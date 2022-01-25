@@ -18,3 +18,9 @@ Below is the list of modules required to scrape from IMDB.
 Save data to file:**
 
 Finally scraped data is saved to csv file: "IMDB.csv" using **csv module.**
+
+
+Components of Web Scraping:
+1. Crawling- Crawl through a website and send request to get response and download that data.
+2. Parse and Transform: Now downloaded data is sent to html parser like BeautifulSoup to get required data.
+3. Storing : Now you can store the required data in csv file in table format.
